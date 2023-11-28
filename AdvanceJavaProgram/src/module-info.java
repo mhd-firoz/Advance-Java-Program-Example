@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module AdvanceJavaProgram {
+	
+	exports hasmapexample;
+}
